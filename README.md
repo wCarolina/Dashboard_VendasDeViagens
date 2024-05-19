@@ -1,4 +1,4 @@
-## Overview
+# Overview
 Dashboard desenvolvido com a finalidade de transformar os dados em insights valiosos ao identificar oportunidades de crescimento e otimização de estratégias com tomada de decisões assertivas.
 
 ## Objetivos da Análise
